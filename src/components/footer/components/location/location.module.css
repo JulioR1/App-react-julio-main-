@@ -1,0 +1,17 @@
+.location{
+  width: 300px;
+  height: 200px;
+  border: 1px solid;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 10px;
+}
+
+.container span{
+  font-weight: bold;
+  gap: 5px;
+}
